@@ -1,7 +1,7 @@
 config = {
    plane_model = "nimbus",
-   use_essentialmode = false,
-   use_venomous = true,
+   use_essentialmode = true,
+   use_venomous = false,
    moneyCurrency = "$",
    ticketPrice = 80
 }
